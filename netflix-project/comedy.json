@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Harold & Kumar",
+        "imageURL": "/assets/kumar.jpg",
+        "backgroundImageURL": "/assets/kumar.jpg",
+        "details": "A Very Harold & Kumar 3D Christmas is a 2011 comedy film directed by Todd Strauss-Schulson. It's the third installment in the Harold & Kumar film series and follows the misadventures of the titular characters, Harold Lee (played by John Cho) and Kumar Patel (played by Kal Penn), as they navigate the holiday season."
+    },
+    {
+        "title": "Longest Yard",
+        "imageURL": "/assets/longest-yard.jpg",
+        "backgroundImageURL": "/assets/money-heist.jpg",
+        "details": "The Longest Yard (2005) is a sports comedy film directed by Peter Segal, starring Adam Sandler as Paul Crewe, a former NFL quarterback turned inmate. He's tasked by the warden, played by James Cromwell, to assemble a team of prisoners for a football game against the guards. The film combines humor, football action, and themes of teamwork and redemption."
+    },
+    {
+        "title": "Melvin's Story",
+        "imageURL": "/assets/melvin.jpg",
+        "backgroundImageURL": "/assets/melvin.jpg",
+        "details": "Happy Gilmore (1996) is a sports comedy starring Adam Sandler as Happy Gilmore, an aspiring ice hockey player who discovers a talent for golf, leading to a chaotic journey in the professional golf world."
+    },
+    {
+        "title": "Are We There yet",
+        "imageURL": "/assets/are-we-there-yet.jpg"
+        ,
+        "details": "When a playboy bachelor falls for a single mom, he embarks on a road trip with her two unruly kids. Chaos, mishaps, and family bonding ensue as they journey to their destination. This family-friendly comedy explores the challenges and joys of blended families."
+    },
+    {
+        
+        "title": "Bruce Almighty",
+        "imageURL": "/assets/bruce-almighty.jpg",
+        "details": "When a playboy bachelor falls for a single mom, he embarks on a road trip with her two unruly kids. Chaos, mishaps, and family bonding ensue as they journey to their destination. This family-friendly comedy explores the challenges and joys of blended families."
+    },
+    {
+        "title": "Dude Wheres My Car",
+        "imageURL": "/assets/dude.jpg",
+        "details": "Dude, Where's My Car? is a 2000 comedy film directed by Danny Leiner. The movie follows the misadventures of two friends, Jesse and Chester, played by Ashton Kutcher and Seann William Scott, who wake up with no memory of the previous night and must retrace their steps to find Jesse's missing car. Here's a shorter description:"
+    }, 
+    {
+
+        "title": " Fun with Dick & Jane",
+        "imageURL": "/assets/dick.jpeg",
+        "details": "Dude, Where's My Car? is a 2000 comedy film directed by Danny Leiner. The movie follows the misadventures of two friends, Jesse and Chester, played by Ashton Kutcher and Seann William Scott, who wake up with no memory of the previous night and must retrace their steps to find Jesse's missing car. Here's a shorter description:"
+    }
+
+
+
+
+]

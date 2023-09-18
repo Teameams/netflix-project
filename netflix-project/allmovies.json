@@ -1,0 +1,158 @@
+[
+    {
+        "title": "Stranger Things",
+        "imageURL": "/assets/stranger-things.jpg",
+        "backgroundImageURL": "/assets/stranger-things.jpg",
+        "details": "In the eerie town of Hawkins, a group of kids stumbles upon a mind-bending secret - a girl with supernatural abilities who goes by Eleven. As they uncover government conspiracies, face menacing creatures from the Upside Down, and embrace the '80s nostalgia, the bonds of friendship become their greatest weapon against the unknown."
+    
+    },
+    {
+        "title": "Happy Gilmore",
+        "imageURL": "/assets/happy-gilmore.jpg",
+        "backgroundImageURL": "/assets/happy-gilmore.jpg",
+        "details": "Happy Gilmore, a not-so-great hockey player, finds his true calling in golf when he discovers his powerful swing. Along with his eccentric coach, he takes the golfing world by storm, entertaining audiences with his unconventional style and hilarious antics."
+    },
+    {
+        "title": "Spiderman",
+        "imageURL": "/assets/spiderman.jpg",
+        "backgroundImageURL":"/assets/stranger-things.jpg"
+        ,
+        "details": "Follow the adventures of Peter Parker, an ordinary high school student who gains extraordinary spider-like abilities. As Spider-Man, he swings through the city, battling villains and protecting the innocent. With great power comes great responsibility in this classic superhero tale."
+    },
+    {
+        "title": "You",
+        "imageURL": "/assets/you.jpg",
+        "backgroundImageURL":"/assets/daredevil.jpg",
+        "details": "Joe Goldberg seems like an ordinary bookstore manager, but behind closed doors, he becomes obsessed with the people he dates. Using social media and manipulation, he insinuates himself into their lives, blurring the lines between love and obsession. This psychological thriller will keep you on the edge of your seat."
+    },
+    {
+        "title": "Daredevil",
+        "imageURL": "/assets/daredevil.jpg",
+        "backgroundImageURL":"/assets/daredevil.jpg",
+        "details": "Matt Murdock, a blind lawyer, leads a double life as Daredevil, a vigilante who fights crime in the Hell's Kitchen neighborhood of New York City. Despite his disability, he possesses incredible senses and martial arts skills, making him a formidable defender of justice in this action-packed series."
+    }
+    ,
+    {
+        "title": "Money heist",
+        "imageURL": "/assets/money-heist.jpg",
+        "backgroundImageURL": "/assets/money-heist.jpg",
+        "details": "A group of robbers, each with a city name as their alias, plans and executes heists on the Royal Mint of Spain and the Bank of Spain. Led by the enigmatic Professor, they print their own money and evade the authorities while dealing with personal conflicts. This thrilling heist series will keep you guessing."
+       
+    },
+    {
+        "title": "Outsiders",
+        "imageURL": "/assets/men.jpg",
+        "backgroundImageURL": "/assets/men.jpg",
+        "details": "A group of friends navigates the ups and downs of life, love, and friendship in this heartwarming and humorous series. From career challenges to dating mishaps, these men face it all together, showcasing the power of enduring friendships."
+    },
+    {
+        "title": "Longest Yard",
+        "imageURL": "/assets/longest-yard.jpg",
+        "backgroundImageURL": "/assets/money-heist.jpg",
+        "details": "A washed-up football player finds himself in a unique situation when he lands in prison. To earn respect among the inmates, he forms a football team composed of fellow prisoners to challenge the guards. This sports comedy is a tale of redemption, teamwork, and unlikely friendships."
+    },
+    {
+        "title": "Melvin's Story",
+        "imageURL": "/assets/melvin.jpg",
+        "backgroundImageURL": "/assets/melvin.jpg",
+        "details": "Melvin, an ordinary guy with an extraordinary secret, can manipulate time. As he discovers the extent of his powers, he must confront a shadowy organization that seeks to control him. This sci-fi thriller explores the consequences of playing with time and the choices we make."
+    },
+    {
+        "title": "Are We There yet",
+        "imageURL": "/assets/are-we-there-yet.jpg",
+        "backgroundImageURL": "/assets/are-we-there-yet.jpg",
+        "details": "When a playboy bachelor falls for a single mom, he embarks on a road trip with her two unruly kids. Chaos, mishaps, and family bonding ensue as they journey to their destination. This family-friendly comedy explores the challenges and joys of blended families."
+    },
+    {
+        "title": "Another Life",
+        "imageURL": "/assets/another-life.jpg",
+        "backgroundImageURL": "/assets/another-life.jpg",
+        "details": "A mysterious alien artifact lands on Earth, and astronaut Niko Breckinridge leads a mission to investigate its origin. As the crew faces unknown dangers and encounters alien life forms, they must unlock the artifact's secrets to save humanity. This sci-fi series is a thrilling space odyssey."
+    },    {
+        "title": "Dolemite Is My Name",
+        "imageURL": "/assets/dolemite-is-my-name.jpg",
+        "backgroundImageURL": "/assets/happy-gilmore.jpg",
+        "details": "Dolemite Is My Name (2019) stars Eddie Murphy as Rudy Ray Moore, a struggling entertainer who creates the character Dolemite and becomes a cult figure in the blaxploitation film genre. The film is a comedic and inspirational journey of one man's determination to make his mark in the entertainment industry."
+    },
+    {
+        "title": "Wednesday",
+        "imageURL": "/assets/wednesday.jpg",
+        "backgroundImageURL":"/assets/stranger-things.jpg"
+        ,
+        "details": "Wednesday is a dark and mysterious Netflix series that takes viewers on a thrilling journey into the supernatural. The show revolves around Wednesday Addams, the iconic daughter of the eccentric Addams Family. Now all grown up and eager to explore the world beyond the eerie mansion she calls home, Wednesday embarks on a solo adventure."
+    },
+    {
+        "title": "Hancock",
+        "imageURL": "/assets/hancock.jpg",
+        "backgroundImageURL":"/assets/stranger-things.jpg"
+        ,
+        "details": "Hancock follows the story of John Hancock, a superhero with extraordinary powers who has fallen out of favor with the public due to his reckless and destructive behavior. While he possesses incredible strength, the ability to fly, and near-invulnerability, he lacks finesse and often causes more harm than good."
+    },
+        {
+            "title": "Longest Yard",
+            "imageURL": "/assets/longest-yard.jpg",
+            "backgroundImageURL": "/assets/money-heist.jpg",
+            "details": "The Longest Yard (2005) is a sports comedy film directed by Peter Segal, starring Adam Sandler as Paul Crewe, a former NFL quarterback turned inmate. He's tasked by the warden, played by James Cromwell, to assemble a team of prisoners for a football game against the guards. The film combines humor, football action, and themes of teamwork and redemption."
+        },
+        {
+            "title": "Melvin's Story",
+            "imageURL": "/assets/melvin.jpg",
+            "backgroundImageURL": "/assets/melvin.jpg",
+            "details": "Happy Gilmore (1996) is a sports comedy starring Adam Sandler as Happy Gilmore, an aspiring ice hockey player who discovers a talent for golf, leading to a chaotic journey in the professional golf world."
+        },
+        {
+            "title": "Are We There yet",
+            "imageURL": "/assets/are-we-there-yet.jpg"
+            ,
+            "details": "When a playboy bachelor falls for a single mom, he embarks on a road trip with her two unruly kids. Chaos, mishaps, and family bonding ensue as they journey to their destination. This family-friendly comedy explores the challenges and joys of blended families."
+        },
+        {
+            
+            "title": "Bruce Almighty",
+            "imageURL": "/assets/bruce-almighty.jpg",
+            "details": "Bruce Almighty is a 2003 comedy film directed by Tom Shadyac and starring Jim Carrey as Bruce Nolan. The movie tells the story of Bruce Nolan, a television news reporter who is discontented with his life and blames God for his misfortunes."
+        },
+        {
+            "title": "Dude Wheres My Car",
+            "imageURL": "/assets/dude.jpg",
+            "details": "Dude, Where's My Car? is a 2000 comedy film directed by Danny Leiner. The movie follows the misadventures of two friends, Jesse and Chester, played by Ashton Kutcher and Seann William Scott, who wake up with no memory of the previous night and must retrace their steps to find Jesse's missing car. Here's a shorter description:"
+        }, 
+        {
+    
+            "title": "Mirrors",
+            "imageURL": "/assets/mirrors.jpg",
+            "details": "Mirrors (2008) tells the eerie tale of a former police officer, Ben Carson (played by Kiefer Sutherland), who becomes a security guard at a burned-down department store. However, he soon discovers that the store's mirrors possess malevolent and supernatural powers. These mirrors reflect disturbing and deadly images that affect those who look into them, leading to a series of horrifying and unexplained deaths."
+        },
+        {
+            "title": "Harold & Kumar",
+            "imageURL": "/assets/kumar.jpg",
+            "backgroundImageURL": "/assets/kumar.jpg",
+            "details": "A Very Harold & Kumar 3D Christmas is a 2011 comedy film directed by Todd Strauss-Schulson. It's the third installment in the Harold & Kumar film series and follows the misadventures of the titular characters, Harold Lee (played by John Cho) and Kumar Patel (played by Kal Penn), as they navigate the holiday season."
+        }, 
+        {
+    
+            "title": " Fun with Dick & Jane",
+            "imageURL": "/assets/dick.jpeg",
+            "details": "Fun with Dick and Jane (2005) is a comedy that follows the story of a couple, Dick and Jane, whose lives take a comedic and criminal turn when Dick loses his job due to corporate corruption. In a desperate attempt to maintain their affluent lifestyle, they turn to a life of white-collar crime, engaging in a series of hilarious and absurd heists."
+        }, 
+        {
+    
+            "title": "Hubie's Haloween",
+            "imageURL": "/assets/haloween.jpg",
+            "details": "Hubie Halloween follows the story of Hubie Dubois, a well-meaning but eccentric resident of Salem, Massachusetts. Hubie is known for his love of Halloween and his commitment to ensuring the safety of the town's trick-or-treaters. When strange and spooky events start happening in Salem on Halloween night, Hubie becomes the unlikely hero who must unravel the mystery and save the town from genuine supernatural threats."
+        }
+    
+    
+    
+
+
+
+
+
+
+
+]
+
+
+
+

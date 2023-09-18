@@ -1,0 +1,84 @@
+/* Generic Print CSS Document */
+* {background-image:none !important;}
+a {border:none;}
+body {margin:1px; margin:5px 0 10px 0; padding:0;}
+#body {width:18cm; float:none !important;}
+#mainContent, #map, #options, #breadcrumb {border:none;}
+#outerContainer	{float:none !important;margin:0 0 0 -15px !important;padding:0 !important;width:auto !important;}
+#mainContent,
+#mainContent #details,
+#body,
+body {overflow:visible !important;}
+
+html {background-color:#fff;}
+
+#options,
+#topNav,
+#search,
+#tabs,
+#botNav,
+#promoBox,
+#resultsPremium .address .teaser.premium,
+#adSpaceMap,
+#header #promoBox,
+div#article .moreLink,
+.formGraphic .roundBox,
+#navigation,
+.ont-layout-section-footer,
+.navigation-bg {display:none;}
+
+
+/* --- Header --- */
+.ont-layout-section-content {width:18cm !important; min-width:18cm;}
+.ont-layout-sticky-header {width:18cm !important; min-width:18cm;}
+
+/* --- Ads --- */
+#body #adSpaceMap,
+#body .expandMap {display:none;}
+
+
+/* --- Map --- */
+#map {float:none; height:400px !important; max-width:750px; margin:15px auto 15px auto; display:block !important;}
+#map.off {display:none !important;}
+#body #map .body #mapApp {height:400px !important;}
+
+/*------------------ Results ------------------------------*/
+#mainTools.dropDown, #results .helpLink {display:none;}
+#results #resultsPremium .recordBody .address a.teased {display:none}
+#results .sponsoredLinks,
+#results .datasources {display:none;}
+
+#results {margin:0 0.4cm;float:none;padding-right:10px;}
+#results #resultsPremium .recordBody {height:auto !important;}
+#results .bmd a {display:none;}
+
+/* ----- article -----*/
+div#article {display:block;}
+div#article .colLeft {width:100% !important;}
+div#article .basicForm.roundBox {width:580px;}
+div#article .basicForm.roundBox .formBottom {display:none;}
+.roundBox .rBbody {border:none;}
+
+div#article.creditReports .cRmenu,
+div#article.creditReports .roundBox{display:none;}
+div#article.creditReports .colLeft {float:none;}
+
+#resizeToolRight {border:none !important;}
+div#article.placesChannel .basicForm {display:none;}
+div#article .panel #hamptonCourt {background: url(../images/content/product-pages/panel-hampton-court.jpg) no-repeat left top !important;}
+div#article .panel #mapIcons {background: url(../images/content/product-pages/panel-map-icons.jpg) no-repeat left top !important;}
+
+/*--------------- Details --------------------*/
+#details {border-color:#336699; position:relative;}
+#details {border:none; margin:0 0.4cm; float:none;}
+#details .section {margin-bottom:10px;}
+#details .section .property .bar {border:2px solid #ccc; position:relative;}
+#details .threeCols a {display:none;}
+.graph01 {page-break-inside:avoid;}
+.graph01 td.true {padding:2px 0;border-width:4px; border-color: #69C; border-style:double none double none; background-color:none;}
+.graph01 td.true.last {padding:2px 0;border-width:4px; border-color:#369; border-style:double double double none; background-color:none;}
+#details .section .property {page-break-inside:avoid;}
+.bgReportPromo  {display:none;}
+#map.removeMapHolder{display:none !important;}
+#map {width:80% !important;}
+#js-ont-extend-map-container{display:none !important; }

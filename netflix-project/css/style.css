@@ -1,0 +1,541 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+
+    overflow-x: hidden; 
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+nav {
+    opacity: 0.90;
+top: 0;
+left: 0;
+background-color: black;
+width: 65px;
+height: 100%;
+position: fixed;
+border-right: 1px solid black;
+z-index: 999;
+
+
+
+}
+
+.hidden {
+    display: none;
+  }
+  .hide-header-after::after {
+    display: none;
+  }
+.d-flex h3 {
+ color: rgb(255, 255, 255);
+    font-size: 30px;
+margin-right: 3px;
+font-weight: lighter;
+font-family: 'Bebas Neue', sans-serif;
+font-weight: bold;
+
+}.d-flex h3:first-child {
+    font-weight: bold;
+  color: rgb(187, 11, 11);
+  font-family: 'Bebas Neue', sans-serif;
+    }
+    nav ul li img{
+   
+
+width: 100%;
+    }
+nav img{
+opacity: 0.9;
+    color: white;
+   
+
+    }
+     ul li:first-child{
+        height: 50px;
+            color: white;
+        
+            }
+            
+nav ul li {
+   height: 25px;
+list-style-type: none;
+text-decoration: none;
+margin-top: 45px;
+
+}
+nav ul li:first-child{
+margin-bottom: 200px;;
+  
+    
+        
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+     align-items: center
+       
+          ;
+
+            }
+
+          
+            
+            header {
+               
+                height: 500px;
+                width: 100%;
+                position: relative;
+            }
+            
+            .header::after  {
+                font-weight: bold;
+                padding-bottom: 5px;
+                padding-left: 75px;
+                display: flex;
+                align-items: end;
+                content: "Popular on Netflix";
+            font-size: 22px;
+                color: white;
+                position: absolute;
+                bottom: 0;
+                left:  0; 
+                width: 100%;
+                height: 60px; 
+                background: linear-gradient(to top, rgba(0.2, 02, 0.5, 1), rgba(7, 7, 7, 0.4) 50%, rgba(0, 0, 0, 0)); 
+                z-index: 100;
+                
+            }
+           
+            .hide-header-after {
+               width: 50%;
+            }
+          
+        
+.img-container {
+  
+    z-index: 9;
+    height: 175px;
+    width: 100%;
+    display: flex;
+    padding-right: 7px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.img-container img {
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+  border: 2px solid transparent; 
+    transition: border-color 0.3s;
+}
+::backdrop
+.img-container img:hover {
+    border-color: white;
+
+  
+}
+.img-container::-webkit-scrollbar {
+    display: none;
+
+}
+
+.img-container img {
+height: 100%;
+
+
+
+}
+
+
+.titles-box {
+margin-left: 150px;
+padding-top: 80px;
+
+}
+.d-flex {
+    display: flex;
+    ;
+}
+
+.titles-box{
+margin-left: 200px;
+width: 500px;
+
+}
+.add {
+    background-color: rgb(46, 46, 46);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+a{
+    margin-right: 10px;
+    display: block;
+ text-decoration: none;
+ color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    font-size: 14px  ;
+    align-items: center;
+    height: 34px;
+padding: 0.5em 0.5em 0 0.5em;
+}
+a img{
+height: 15px;
+margin-right: 5px;
+
+
+}
+
+
+section {
+   
+    background-color: black;
+ 
+   
+}
+
+.img-container img {
+margin-right: 7px;
+height: 100%;
+}
+
+.movies-strip {
+padding-left: 54px;
+        display: flex;
+        align-items: center;
+        white-space: nowrap;
+        
+}
+
+.movies-strip-2 {
+
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+
+}
+
+section h2{
+
+    margin: 0px 0 0px 70px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    
+ 
+}
+.section-fontsize {
+    font-size: 18px;
+
+}
+
+
+.image {
+    z-index: 0;
+    transition: position 2s ease; 
+    padding-top: 100px;
+padding-left: 175px;
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/assets/are-we-there-yet.jpg);
+
+
+    
+}
+
+.image::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(to left, rgba(253, 253, 253, 0), rgb(0, 0, 0));
+}
+
+.clicked-background-image {
+    background-image: url('/assets/stranger-things.jpg');
+}
+
+.titles-box {
+background-repeat: no-repeat;
+background-size: cover ;
+
+
+}
+
+.clicked-title {
+    font-size: 18px;
+}
+
+#title {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    opacity:    90%;
+    color: white;
+
+}
+.rating {
+    margin: 10px 10px 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(207, 207, 207);
+
+
+}
+.rating p{
+  margin-right: 15px;
+
+
+}
+.rating p:first-child{
+margin-right: 15px;
+color: rgb(14, 202, 14);
+}
+
+#add {
+
+
+}
+.opacity {
+    top: 0;
+    left: 0;
+   height: 100%;
+   z-index: 1;
+}
+
+.movie-show {
+    z-index: 1;
+}
+.movie-show,
+.opacity {
+    width: 100%;
+ 
+    position: relative;
+    z-index: 2;
+}
+
+#preview {
+    color: white;
+}
+.details {
+    color: rgb(228, 228, 228);
+    font-family: 'Roboto', sans-serif;
+  width: 50%;
+ padding-bottom: 15px;
+}
+
+.box-style {
+    color: rgb(190, 190, 190);
+border-radius: 0.2em;
+display: block;
+padding: 0.1em 0.3em;
+border: 1px solid rgb(190, 190, 190);
+font-weight: bold;
+
+
+}
+.top-of-movies-section {
+  background-color: rgb(0, 0, 0);
+
+
+
+}
+.header-title {
+
+    margin-left: 0 !important;
+    padding-left: 0;
+    width: 100%;
+    background-color: rgb(185, 0, 0);
+    opacity: 1;
+    color: white;
+}
+
+header {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+main {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+section {   
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+body {
+     padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.d-flex-columm {
+    margin: 40% 15%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.d-flex-columm img {
+  
+    width: 100%;
+
+    }
+   
+    
+ul li img:nth-child(2) {
+ width: 40px;
+ height: 30px;
+}
+#img-container img {
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out; 
+}
+
+li a img {
+    width: 35px;
+    height: 100%;
+    background-color: black;
+}
+li a {
+    padding: 0;
+    width: 35px;
+    background-color: black;
+}
+li a img:hover {padding-bottom: 3px;
+border-bottom: solid red;
+
+}
+
+.home-line {
+    padding-bottom: 5px;
+    border-bottom: solid red;
+    }
+    #preview {
+        font-size: 36px;
+        font-weight: bold;
+        font-family: 'Roboto', sans-serif;
+        opacity:    90%;
+        color: white;
+    
+    }
+    nav:hover .home-line {
+        border-bottom: none;
+    }
+
+
+.fav-holder {
+    display: flex;
+    align-items: center;
+
+}
+
+
+.fav-holder img {
+    height: 175px; 
+}
+.fav-holder img:hover {
+    border: 2px solid transparent; 
+    transition: border-color 0.3s; 
+    border-color: white;
+
+}
+#img-container-4 {
+    margin-left: 55px;
+}
+
+.added{
+
+
+}
+
+.added-not{
+    display: none;
+  
+    margin-left: 50px;
+       color: black;
+       padding: 1em;
+       background-color: rgb(82, 82, 82);
+       color: rgb(255, 255, 255);
+       border-radius: 2px;
+       border-top:2px solid rgb(255, 255, 255);
+    
+       opacity: 80%;
+
+}
+
+
+.unsuccesful{
+    
+  display: none;
+    margin-left: 50px;
+       color: rgb(0, 0, 0);
+       padding: 1em;
+       background-color: rgb(255, 0, 0);
+       color: rgb(255, 255, 255);
+       border-radius: 2px;
+       border-top:2px solid rgb(255, 255, 255);
+    
+       opacity: 60%;
+
+}
+.added p{
+  
+  
+ 
+}
+button {
+border-color: grey;
+    font-size: 12px;
+    padding: 0 0.5em;
+  height: 35px;
+  color: white;
+background-color: rgb(32, 32, 32);
+border-radius: 4px;
+}
+#img-container-2:hover + #img-container {
+    height: 100px;
+    transition: height 0.3s ease; 
+}
+
+#favourites h2{
+font-size: 0px;
+color: black;
+}
+
+#img-container-4{
+    display: flex;
+margin-bottom: 10px ;
+
+}
+
+#img-container-4 img{
+height: 10em;
+width: 100%;
+margin-right: 10px;
+
+}
+

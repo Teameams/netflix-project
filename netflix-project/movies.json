@@ -1,0 +1,109 @@
+[
+    {
+        "title": "Stranger Things",
+        "imageURL": "/assets/stranger-things.jpg",
+        "backgroundImageURL": "/assets/stranger-things.jpg",
+        "details": "In the eerie town of Hawkins, a group of kids stumbles upon a mind-bending secret - a girl with supernatural abilities who goes by Eleven. As they uncover government conspiracies, face menacing creatures from the Upside Down, and embrace the '80s nostalgia, the bonds of friendship become their greatest weapon against the unknown."
+    
+    },
+    {
+        "title": "Dolemite Is My Name",
+        "imageURL": "/assets/dolemite-is-my-name.jpg",
+        "backgroundImageURL": "/assets/happy-gilmore.jpg",
+        "details": "Dolemite Is My Name (2019) stars Eddie Murphy as Rudy Ray Moore, a struggling entertainer who creates the character Dolemite and becomes a cult figure in the blaxploitation film genre. The film is a comedic and inspirational journey of one man's determination to make his mark in the entertainment industry."
+    },
+    {
+        "title": "Spiderman",
+        "imageURL": "/assets/spiderman.jpg",
+        "backgroundImageURL":"/assets/stranger-things.jpg"
+        ,
+        "details": "Spider-Man is a beloved Marvel Comics superhero created in 1962 by Stan Lee and Steve Ditko. The character, also known as Peter Parker, possesses spider-like abilities, including wall-crawling and web-slinging. He uses his powers to fight crime and protect the people of New York City, while also dealing with the challenges of his personal life and responsibilities. "
+    },
+    {
+        "title": "You",
+        "imageURL": "/assets/you.jpg",
+        "backgroundImageURL":"/assets/daredevil.jpg"
+        ,
+        "details": "You follows the story of Joe Goldberg, portrayed by Penn Badgley, a seemingly charming and intelligent bookstore manager who becomes infatuated with the people he dates. However, his infatuation quickly turns into a dangerous obsession, and he goes to extreme lengths to get close to the object of his desire, often resorting to stalking, manipulation, and even violence"
+    },
+    {
+        "title": "Daredevil",
+        "imageURL": "/assets/daredevil.jpg",
+        "backgroundImageURL":"/assets/daredevil.jpg"
+        ,
+        "details": "Daredevil is a Marvel Comics superhero created in 1964 by Stan Lee and Bill Everett. The character, also known as Matt Murdock, was blinded as a child but gained enhanced senses, including radar-like abilities, which he uses to fight crime in the Hell's Kitchen neighborhood of New York City. By day, he works as a defense attorney"
+    },
+    {
+        "title": "Wednesday",
+        "imageURL": "/assets/wednesday.jpg",
+        "backgroundImageURL":"/assets/stranger-things.jpg"
+        ,
+        "details": "Wednesday is a dark and mysterious Netflix series that takes viewers on a thrilling journey into the supernatural. The show revolves around Wednesday Addams, the iconic daughter of the eccentric Addams Family. Now all grown up and eager to explore the world beyond the eerie mansion she calls home, Wednesday embarks on a solo adventure."
+    },
+    {
+        "title": "Hancock",
+        "imageURL": "/assets/hancock.jpg",
+        "backgroundImageURL":"/assets/stranger-things.jpg"
+        ,
+        "details": "Hancock follows the story of John Hancock, a superhero with extraordinary powers who has fallen out of favor with the public due to his reckless and destructive behavior. While he possesses incredible strength, the ability to fly, and near-invulnerability, he lacks finesse and often causes more harm than good."
+    },
+    {
+        "title": "Dude Wheres My Car",
+        "imageURL": "/assets/dude.jpg",
+        "backgroundImageURL": "/assets/stranger-things.jpg",
+        "details": "Dude, Where's My Car? is a 2000 comedy film directed by Danny Leiner. The movie follows the misadventures of two friends, Jesse and Chester, played by Ashton Kutcher and Seann William Scott, who wake up with no memory of the previous night and must retrace their steps to find Jesse's missing car. Here's a shorter description:"
+    },
+    {
+        "title": "Dolemite Is My Name",
+        "imageURL": "/assets/dolemite-is-my-name.jpg",
+        "backgroundImageURL": "/assets/happy-gilmore.jpg",
+        "details": "A comedy about a not-so-great hockey player turned golfer..."
+    },
+    {
+        "title": "Spiderman",
+        "imageURL": "/assets/spiderman.jpg",
+        "backgroundImageURL":"/assets/stranger-things.jpg"
+        ,
+        "details": "A comedy about a not-so-great hockey player turned golfer..."
+    },
+    {
+        "title": "You",
+        "imageURL": "/assets/you.jpg",
+        "backgroundImageURL":"/assets/daredevil.jpg"
+        ,
+        "details": "A comedy about a not-so-great hockey player turned golfer..."
+    },
+    {
+        "title": "Daredevil",
+        "imageURL": "/assets/daredevil.jpg",
+        "backgroundImageURL":"/assets/daredevil.jpg"
+        ,
+        "details": "Daredevil is a Marvel Comics superhero created in 1964 by Stan Lee and Bill Everett. The character, also known as Matt Murdock, was blinded as a child but gained enhanced senses, including radar-like abilities, which he uses to fight crime in the Hell's Kitchen neighborhood of New York City. By day, he works as a defense attorney"
+    },
+    {
+        "title": "Wednesday",
+        "imageURL": "/assets/wednesday.jpg",
+        "backgroundImageURL":"/assets/stranger-things.jpg"
+        ,
+        "details": "A comedy about a not-so-great hockey player turned golfer..."
+    },
+    {
+        "title": "Hancock",
+        "imageURL": "/assets/hancock.jpg",
+        "backgroundImageURL":"/assets/stranger-things.jpg"
+        ,
+        "details": "A comedy about a not-so-great hockey player turned golfer..."
+    }
+    
+
+
+
+
+
+
+
+]
+
+
+
+
